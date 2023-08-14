@@ -1,0 +1,13 @@
+Variable Description
+PassengerId: unique id number to each passenger
+Survived: passenger survive(1) or died(0)
+Pclass: passenger class
+Name: name
+Sex: gender of passenger
+Age: age of passenger
+SibSp: number of siblings/spouses
+Parch: number of parents/children
+Ticket: ticket number
+Fare: amount of money spent on ticket
+Cabin: cabin category
+Embarked: port where passenger embarked (C = Cherbourg, Q = Queenstown, S = Southampton)
